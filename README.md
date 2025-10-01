@@ -25,6 +25,20 @@ The project is divided into three parts:
 - [Express.js](https://expressjs.com/) → Web framework for Node.js message server.
 - [Ollama](https://ollama.ai/) → Local AI model runner (LLaMA2, Mistral, etc.).
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Screenshot/1.PNG" alt="Screenshot 1" width="250"/>
+  <img src="Screenshot/2.PNG" alt="Screenshot 2" width="250"/>
+  <img src="Screenshot/3.PNG" alt="Screenshot 3" width="250"/>
+</p>
+
+<p align="center">
+  <img src="Screenshot/4.PNG" alt="Screenshot 4" width="250"/>
+  <img src="Screenshot/5.PNG" alt="Screenshot 5" width="250"/>
+  <img src="Screenshot/6.PNG" alt="Screenshot 6" width="250"/>
+  <img src="Screenshot/7.PNG" alt="Screenshot 7" width="250"/>
+</p>
 
 ## 📂 Folder Structure
 
